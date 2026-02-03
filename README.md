@@ -6,6 +6,7 @@ An interactive data visualization dashboard built using **Streamlit** to explore
 The dashboard focuses on trip duration, distance–fare relationships, payment methods, and spatial pickup hotspots.
 
 **Deployed on Hugging Face Spaces**
+https://huggingface.co/spaces/sravya-0195/Chicago_Taxi_Trip_Dasboard
 **Built with Python, Altair, Folium, and Streamlit**
 
 ---
